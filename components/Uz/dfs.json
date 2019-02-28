@@ -1,0 +1,121 @@
+{
+  "content_type": "text",
+  "message_id": 4153,
+  "from_user": {
+    "id": 614287348,
+    "is_bot": False,
+    "first_name": "Temurxon",
+    "username": "Temurxon77",
+    "last_name": None,
+    "language_code": "ru"
+  },
+  "date": 1550748953,
+  "chat": {
+    "type": "private",
+    "last_name": None,
+    "first_name": "Temurxon",
+    "username": "Temurxon77",
+    "id": 614287348,
+    "title": None,
+    "all_members_are_administrators": None,
+    "photo": None,
+    "description": None,
+    "invite_link": None,
+    "pinned_message": None,
+    "sticker_set_name": None,
+    "can_set_sticker_set": None
+  },
+  "forward_from_chat": None,
+  "forward_from": None,
+  "forward_date": None,
+  "reply_to_message": None,
+  "edit_date": None,
+  "media_group_id": None,
+  "author_signature": None,
+  "text": "Сервисы",
+  "entities": None,
+  "caption_entities": None,
+  "audio": None,
+  "document": None,
+  "photo": None,
+  "sticker": None,
+  "video": None,
+  "video_note": None,
+  "voice": None,
+  "caption": None,
+  "contact": None,
+  "location": None,
+  "venue": None,
+  "new_chat_member": None,
+  "new_chat_members": None,
+  "left_chat_member": None,
+  "new_chat_title": None,
+  "new_chat_photo": None,
+  "delete_chat_photo": None,
+  "group_chat_created": None,
+  "supergroup_chat_created": None,
+  "channel_chat_created": None,
+  "migrate_to_chat_id": None,
+  "migrate_from_chat_id": None,
+  "pinned_message": None,
+  "invoice": None,
+  "successful_payment": None,
+  "connected_website": None,
+  "json": {
+    "message_id": 4153,
+    "from": {
+      "id": 614287348,
+      "is_bot": False,
+      "first_name": "Temurxon",
+      "username": "Temurxon77",
+      "language_code": "ru"
+    },
+    "chat": {
+      "id": 614287348,
+      "first_name": "Temurxon",
+      "username": "Temurxon77",
+      "type": "private"
+    },
+    "date": 1550748953,
+    "text": "Сервисы"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{'content_type': 'text', 'message_id': 4246, 'from_user': {'id': 614287348, 'is_bot': False, 'first_name': 'Temurxon', 'username': 'Temurxon77', 'last_name': None, 'language_code': 'ru'
+  }, 'date': 1550750799, 'chat': {'type': 'private', 'last_name': None, 'first_name': 'Temurxon', 'username': 'Temurxon77', 'id': 614287348, 'title': None, 'all_members_are_administrators': None, 'photo': None, 'description': None, 'invite_link': None, 'pinned_message': None, 'sticker_set_name': None, 'can_set_sticker_set': None
+  }, 'forward_from_chat': None, 'forward_from': None, 'forward_date': None, 'reply_to_message': None, 'edit_date': None, 'media_group_id': None, 'author_signature': None, 'text': '/start', 'entities': [<telebot.types.MessageEntity object at 0x025EB650>
+  ], 'caption_entities': None, 'audio': None, 'document':
+None, 'photo': None, 'sticker': None, 'video': None, 'video_note': None, 'voice': None, 'caption': None, 'contact': None, 'location': None, 'venue': None, 'new_chat_member': None, 'new_chat_members': None, 'left_chat_member': None, 'new_chat_title': None, 'new_chat_photo': None, 'delete_chat_photo': None, 'group_chat_created': None, 'supergroup_chat_created': None, 'channel_chat_created': None, 'migrate_to_chat_id': None, 'migrate_from_chat_id': None, 'pinned_message': None, 'invoice': None, 'successful_payment': None, 'connected_website': None, 'json': {'message_id': 4246, 'from': {'id': 614287348, 'is_bot': False, 'first_name': 'Temurxon', 'username': 'Temurxon77', 'language_code': 'ru'
+    }, 'chat': {'id': 614287348, 'first_name': 'Temurxon', 'username': 'Temurxon77', 'type': 'private'
+    }, 'date': 1550750799, 'text': '/start', 'entities': [
+      {'offset': 0, 'length': 6, 'type': 'bot_command'
+      }
+    ]
+  }
+}
+{'content_type': 'text', 'message_id': 4246, 'from_user': {'id': 614287348, 'is_bot': False, 'first_name': 'Temurxon', 'username': 'Temurxon77', 'last_name': None, 'language_code': 'ru'
+  }, 'date': 1550750799, 'chat': {'type': 'private', 'last_name': None, 'first_name': 'Temurxon', 'username': 'Temurxon77', 'id': 614287348, 'title': None, 'all_members_are_administrators': None, 'photo': None, 'description': None, 'invite_link': None, 'pinned_message': None, 'sticker_set_name': None, 'can_set_sticker_set': None
+  }, 'forward_from_chat': None, 'forward_from': None, 'forward_date': None, 'reply_to_message': None, 'edit_date': None, 'media_group_id': None, 'author_signature': None, 'text': '/start', 'entities': [<telebot.types.MessageEntity object at 0x025EB650>
+  ], 'caption_entities': None, 'audio': None, 'document':
+None, 'photo': None, 'sticker': None, 'video': None, 'video_note': None, 'voice': None, 'caption': None, 'contact': None, 'location': None, 'venue': None, 'new_chat_member': None, 'new_chat_members': None, 'left_chat_member': None, 'new_chat_title': None, 'new_chat_photo': None, 'delete_chat_photo': None, 'group_chat_created': None, 'supergroup_chat_created': None, 'channel_chat_created': None, 'migrate_to_chat_id': None, 'migrate_from_chat_id': None, 'pinned_message': None, 'invoice': None, 'successful_payment': None, 'connected_website': None, 'json': {'message_id': 4246, 'from': {'id': 614287348, 'is_bot': False, 'first_name': 'Temurxon', 'username': 'Temurxon77', 'language_code': 'ru'
+    }, 'chat': {'id': 614287348, 'first_name': 'Temurxon', 'username': 'Temurxon77', 'type': 'private'
+    }, 'date': 1550750799, 'text': '/start', 'entities': [
+      {'offset': 0, 'length': 6, 'type': 'bot_command'
+      }
+    ]
+  }
+}
